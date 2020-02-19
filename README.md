@@ -8,6 +8,6 @@
 ### 3rd solution ![](https://github.com/ZakariaHn/validation/blob/master/Images/validation3/val111.png)
 ![](https://github.com/ZakariaHn/validation/blob/master/Images/validation3/val222.png)
 ![](https://github.com/ZakariaHn/validation/blob/master/Images/validation3/val333.png)
-###### Change the function name in the function-call in order to check the results fot the other solutions
+###### Change the `function` name in the `function-calls` in order to check the results for the other solutions.
 ![](https://github.com/ZakariaHn/validation/blob/master/Images/consolLogValidPin.png)
 ![](https://github.com/ZakariaHn/validation/blob/master/Images/resultValidPin.png)
