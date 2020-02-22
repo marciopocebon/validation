@@ -46,12 +46,12 @@
 
 ### 3rd solution
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation3/val111.png)
-### Explanation of the 3rd part:
+### Explanation of the 1st part:
 
 <br>
 
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation3/val222.png)
-### Explanation of the 3rd part:
+### Explanation of the 2nd part:
 
 <br>
 
