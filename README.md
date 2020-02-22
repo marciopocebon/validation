@@ -28,7 +28,7 @@
 
 <br>
 
-### 2 using [`for...of`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of) statement, [``](), [``](), [``](), [``]().
+### 2nd solution
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation2/val11.png)
 ### Explanation of the 1st part:
 
@@ -44,7 +44,7 @@
 
 <br>
 
-### 3 using [``](), [``](), [``](), [``](), [``](), [``](). 
+### 3rd solution
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation3/val111.png)
 ### Explanation of the 3rd part:
 
