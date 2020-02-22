@@ -4,20 +4,14 @@
 * The pin should have at least **two** different digits.
 * The pin code's last digit should be even.
 * The pin code should add up to at least 5.
-
 <br>
-
 #### To know more about the used functions, methods, elements...ect, go to the end of the page and follow the attached links.
-
 <br>
-
 ## This code challanges were made in three different ways, accompanied by a general explanation of the codes.
+
 <br>
 
 ### 1st solution:
-
-
-
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation/va1.png)
 ### Explanation of the 1st part:
 
