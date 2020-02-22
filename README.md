@@ -54,6 +54,10 @@
 ### Explanation of the 3rd part:
 
 <br>
+### You can check out the codes by navigating between this three branches of my repository: 
+[](https://github.com/ZakariaHn/validation/blob/validation/validation.js) 
+[](https://github.com/ZakariaHn/validation/blob/validation1/validation1.js) 
+[](https://github.com/ZakariaHn/validation/blob/validation2/validation2.js)
 
 ###### Change the `function` name in the `function-calls` in order to check the results for the other solutions.
 ![](https://github.com/ZakariaHn/validation/blob/master/Images/consolLogValidPin.png)
