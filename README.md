@@ -5,7 +5,7 @@
 * The pin code's last digit should be even.
 * The pin code should add up to at least 5.
 
-#### `To know more about the used functions, methods, statements...ect, go to the end of the page and follow the attached links.`
+###### `To know more about the used functions, methods, statements...ect, go to the end of the page and follow the attached links.`
 
 <br>
 
