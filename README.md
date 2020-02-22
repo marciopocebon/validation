@@ -1,9 +1,9 @@
 ## Create a function that fulfills the following requirements:
-* The pin code must consist of only numbers.
-* The pin code must be 4 digits long.
+* The pin code must consist of **only numbers**.
+* The pin code must be **4 digits** long.
 * The pin should have at least **two** different digits.
-* The pin code's last digit should be even.
-* The pin code should add up to at least 5.
+* The pin code's last digit should be **even**.
+* The pin code should add up to at least **5**.
 <br>
 
 ## This code challanges were made in three different ways, accompanied by a general explanation of the codes.
