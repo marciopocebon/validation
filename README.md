@@ -6,6 +6,7 @@
 * The pin code should add up to at least 5.
 <br>
 #### To know more about the used functions, methods, elements...ect, go to the end of the page and follow the attached links.
+
 <br>
 ## This code challanges were made in three different ways, accompanied by a general explanation of the codes.
 
