@@ -10,14 +10,7 @@
 <br>
 
 ### This code challanges were made in three different ways, accompanied by a general explanation of the codes.
-```javascript
-const validPin = pinCode => {
-  let strToArr = pinCode.split(""),
-    num = strToArr.map(word => parseInt(word)),
-    sum = num.reduce((a, b) => a + b),
-    diff = num.filter(a => a == num[0]).length == num.length;
-  
-```
+
 ### 1st solution:
 
 
