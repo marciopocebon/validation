@@ -38,8 +38,7 @@ When result is returned, we'll get the boolean values for our conditions.
 ### validPin1
 
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation2/val11.png)
-
-##### 1st part of the code, is exactly the same like the first part of the previous solution, but without the `filter()` thing!
+1st part of the code, is exactly the same like the first part of the previous solution, but without the `filter()` thing!
 
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation2/val22.png)
 Instead filter, i'm using here `for...of` statement and storing a boolean value `? false : true;` inside `diff`. The boolean value should tell us, if any of the indexes inside `num` (counting from index 1) is equal to the index 0 of the same array `[i + 1] == num[0].`
@@ -68,7 +67,6 @@ Finally, return `result`, where all of our boolean values are stored.
 <br>
 
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation3/val222.png)
-
 The same concept applied in the last solution with using `for...of` statement in order to check the different numbers is applied here again using `map()` array-method.
 
 <br>
