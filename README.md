@@ -12,11 +12,15 @@
 
 <br>
 
-#### Three functions were created with the names `validPin1/ 2/ 3`, each takes one argument `pinCode` which converted to an array of strings using `split()`. **Let's go and see what is in this three functions!**.
-
+#### Three functions were created with the names `validPin/ 1/ 2`, each takes one argument `pinCode` which converted to an array of strings using `split()`. **Let's go and see what is in this three functions!**.
+```javascript
+const validPin/ 1/ 2 = pinCode => {
+  let strToArr = pinCode.split(""),
+  ```
+  
 <br>
 
-### 1st solution:
+### validPin
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation/va1.png)
 Appling `map()` on the array and convering each index from a string to a number using `parseInt()` and store the value in `num`.  
 adding up the numbers in `num` using `reduce()` and storing the value in `sum`. 
@@ -31,11 +35,11 @@ when result is returned we'll get the bolian values vor our conditions.
 
 <br>
 
-### 2nd solution
+### validPin1
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation2/val11.png)
 #### 1st part of the code, is exactly the same like the first part of the previous solution, but without the `filter()` thing!
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation2/val22.png)
-Instead filter, i'm using here `for...of` statement and storing a poolean value `? false : true;` inside `diff`. The poolean value should teel us, if any of the indexes inside `num` (counting from 1) is equal to the index 0 of the same array `[i + 1] == num[0]`
+Instead filter, i'm using here `for...of` statement and storing a boolean value `? false : true;` inside `diff`. The boolean value should tell us, if any of the indexes inside `num` (counting from index 1) is equal to the index 0 of the same array `[i + 1] == num[0]`
 
 <br>
 
@@ -54,7 +58,7 @@ Instead filter, i'm using here `for...of` statement and storing a poolean value 
 ```
 <br>
 
-### 3rd solution
+### validPin2
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation3/val111.png)
 ### Explanation of the 1st part:
 ```javascript
