@@ -22,6 +22,7 @@ const validPin/ 1/ 2 = pinCode => {
 
 ### validPin
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation/va1.png)
+
 Appling `map()` on the array and converting each index from a string to a number using `parseInt()` and store the value in `num`. Then adding up the numbers in `num` using `reduce()` and storing the value in `sum`.  
 If we want to see if tow digits are different, we can compare the first index of the array with the other digits individually using `filter()` array-method.  
 The length of the filtered array should be equal to the length of the original one.
@@ -29,6 +30,7 @@ The length of the filtered array should be equal to the length of the original o
 <br>
 
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation/val2.png)
+
 Declaring a variable `result` and assign the value of my comparison process into it.
 our comparison with the `logical-operator or ||` will return `false` for each truthy condition (which should be false in relation to the **requirements**) and vice versa.
 When result is returned, we'll get the boolean values for our conditions.
@@ -38,9 +40,11 @@ When result is returned, we'll get the boolean values for our conditions.
 ### validPin1
 
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation2/val11.png)
+
 1st part of the code, is exactly the same like the first part of the previous solution, but without the `filter()` thing!
 
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation2/val22.png)
+
 Instead filter, i'm using here `for...of` statement and storing a boolean value `? false : true;` inside `diff`. The boolean value should tell us, if any of the indexes inside `num` (counting from index 1) is equal to the index 0 of the same array `[i + 1] == num[0].`
 
 <br>
@@ -66,6 +70,7 @@ Finally, return `result`, where all of our boolean values are stored.
 <br>
 
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation3/val222.png)
+
 The same concept applied in the last solution with using `for...of` statement in order to check the different numbers is applied here again using `map()` array-method.
 
 <br>
@@ -83,7 +88,8 @@ Finally, return `result`, where all of our boolean values are stored.
 [](https://github.com/ZakariaHn/validation/blob/validation1/validation1.js) 
 [](https://github.com/ZakariaHn/validation/blob/validation2/validation2.js)
 
-###### Change the `function` name in the `function-calls` in order to check the results for the other solutions.
+##### Change the `function` name in the `function-calls` in order to check the results for the other solutions.
+
 ```javascript
 console.log(validPin2("1234")); // true
 console.log(validPin2("1235")); // false
@@ -95,8 +101,6 @@ console.log(validPin2("2224")); // true
 ```
 
 <br>
-
-# Resources:
 
 [`filter()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) 
 [`map()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Map) 
