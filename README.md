@@ -84,9 +84,15 @@ Finally, return `result`, where all of our boolean values are stored.
 [](https://github.com/ZakariaHn/validation/blob/validation2/validation2.js)
 
 ###### Change the `function` name in the `function-calls` in order to check the results for the other solutions.
-
-![](https://github.com/ZakariaHn/validation/blob/master/Images/consolLogValidPin.png)
-![](https://github.com/ZakariaHn/validation/blob/master/Images/resultValidPin.png)
+```javascript
+console.log(validPin2("1234")); // true
+console.log(validPin2("1235")); // false
+console.log(validPin2("www"));  // false
+console.log(validPin2("12345"));// false
+console.log(validPin2("2222")); // false
+console.log(validPin2("1000")); // false
+console.log(validPin2("2224")); // true
+```
 
 <br>
 
