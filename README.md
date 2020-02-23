@@ -1,4 +1,4 @@
-## Create a function that fulfills the following requirements:
+# Create a function that fulfills the following requirements:
 * The pin code must consist of **only numbers**.
 * The pin code must be **4 digits** long.
 * The pin should have at least **two** different digits.
