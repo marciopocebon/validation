@@ -36,14 +36,18 @@ When result is returned, we'll get the boolean values for our conditions.
 <br>
 
 ### validPin1
+
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation2/val11.png)
+
 ##### 1st part of the code, is exactly the same like the first part of the previous solution, but without the `filter()` thing!
+
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation2/val22.png)
 Instead filter, i'm using here `for...of` statement and storing a boolean value `? false : true;` inside `diff`. The boolean value should tell us, if any of the indexes inside `num` (counting from index 1) is equal to the index 0 of the same array `[i + 1] == num[0].`
 
 <br>
 
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation2/val33.png)
+
 #### Check conditions
 With the `logical-operator and &&` and return `true`, for each truthy condition and vice versa.  
 Finally, return `result`, where all of our boolean values are stored.
@@ -51,6 +55,7 @@ Finally, return `result`, where all of our boolean values are stored.
 <br>
 
 ### validPin2
+
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation3/val111.png)
 
 * Decalring a varaible and assign an empty are as a vlaue to it.
@@ -69,6 +74,7 @@ The same concept applied in the last solution with using `for...of` statement in
 <br>
 
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation3/val333.png)
+
 #### Check conditions
 With the `logical-operator and &&` and return `true`, for each truthy condition and vice versa.  
 Finally, return `result`, where all of our boolean values are stored.
@@ -89,18 +95,20 @@ Finally, return `result`, where all of our boolean values are stored.
 <br>
 
 #### To know more about the used functions, methods, elements...ect, go to the end of the page and follow the attached links.
+
 # Resources:
-![`filter()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) 
-![`map()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Map) 
-![`reduce()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) 
-![`parseInt()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/parseInt) 
-![`for...of`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of) 
-![`forEach()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) 
-![`push()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push) 
-![`split()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split) 
-![`Comparision Operators`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guid/Expressions_and_Operators#Comparison) 
-![`isNaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN) 
-![`logical-operators || and &&`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators)
+
+[`filter()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) 
+[`map()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Map) 
+[`reduce()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce) 
+[`parseInt()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/parseInt) 
+[`for...of`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/for...of) 
+[`forEach()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) 
+[`push()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/push) 
+[`split()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split) 
+[`Comparision Operators`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guid/Expressions_and_Operators#Comparison) 
+[`isNaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN) 
+[`logical-operators || and &&`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators)
 
 #### <p align = "center">`If (you spot typo || logical errors) please {return "Where is the error!"};`</p>
 <br>
