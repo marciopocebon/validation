@@ -47,8 +47,7 @@ Instead filter, i'm using here `for...of` statement and storing a boolean value 
 
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation2/val33.png)
 
-#### Check conditions
-With the `logical-operator and &&` and return `true`, for each truthy condition and vice versa.  
+Check conditions with the `logical-operator and &&` and return `true`, for each truthy condition and vice versa.  
 Finally, return `result`, where all of our boolean values are stored.
 
 <br>
@@ -73,8 +72,7 @@ The same concept applied in the last solution with using `for...of` statement in
 
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation3/val333.png)
 
-#### Check conditions
-With the `logical-operator and &&` and return `true`, for each truthy condition and vice versa.  
+Check conditions with the `logical-operator and &&` and return `true`, for each truthy condition and vice versa.  
 Finally, return `result`, where all of our boolean values are stored.
 
 <br>
