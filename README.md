@@ -1,4 +1,5 @@
-# Create a function that fulfills the following requirements:
+# If the pin code is valid!
+## Create a function that fulfills the following requirements:
 ### The pin code should:
 * be consist of **only numbers**.
 * be **4 digits** long.
