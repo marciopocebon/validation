@@ -12,7 +12,7 @@
 
 <br>
 
-#### Three functions were created with the names `validPin/ 1/ 2`, each takes one argument `pinCode` which converted to an array of strings using `split()`. **Let's go and see what is in this three functions!**.
+#### Three functions were created with the names `validPin/ 1/ 2`, each takes one argument `pinCode` which converted to an array of strings using `split()`. **Let's go and see what is in these three functions!**.
 ```javascript
 const validPin/ 1/ 2 = pinCode => {
   let strToArr = pinCode.split(""),
