@@ -9,7 +9,7 @@
 <br>
 
 ## This code challanges were made in three different ways, accompanied by a general explanation of the codes.
-
+## To know more about the used functions, methods, elements...ect, go to the end of the page and follow the attached links.
 <br>
 
 #### Three functions were created with the names `validPin/ 1/ 2`, each takes one argument `pinCode` which converted to an array of strings using `split()`. **Let's go and see what is in these three functions!**.
@@ -96,8 +96,6 @@ console.log(validPin2("2224")); // true
 
 <br>
 
-#### To know more about the used functions, methods, elements...ect, go to the end of the page and follow the attached links.
-
 # Resources:
 
 [`filter()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) 
@@ -110,8 +108,8 @@ console.log(validPin2("2224")); // true
 [`split()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/split) 
 [`comparision operators`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Comparison_Operators) 
 [`isNaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN) 
-[`logical operators || and &&`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators)
-[conditional (ternary) operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
+[`logical operators || and &&`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators)  
+[`conditional (ternary) operator`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Conditional_Operator)
 
 #### <p align = "center">`If (you spot typo || logical errors) please {return "Where is the error!"};`</p>
 <br>
