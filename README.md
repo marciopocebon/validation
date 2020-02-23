@@ -78,5 +78,5 @@
 [`isNaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN) 
 [`logical-operators || and &&`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators)
 
-#### <p align = "center">`If (you notice typo || logical errors) please {console.log("Where is the error!")};`</p>
+#### <p align = "center">`If (you spot typo || logical errors) please {console.log("Where is the error!")};`</p>
 #### <p align = "center">Thanks for reading till the end `:)` </p>
