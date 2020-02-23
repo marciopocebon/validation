@@ -85,7 +85,7 @@ when result is returned we'll get the bolian values vor our conditions.
 [`isNaN`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/isNaN) 
 [`logical-operators || and &&`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Logical_Operators)
 
-#### <p align = "center">`If (you spot typo || logical errors) please {return ("Where is the error!")};`</p>
+#### <p align = "center">`If (you spot typo || logical errors) please {return "Where is the error!"};`</p>
 <br>
 
 #### <p align = "center">Thanks for reading till the end `:)` </p>
