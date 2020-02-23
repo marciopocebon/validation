@@ -12,7 +12,7 @@
 
 <br>
 
-#### Three functions were created with the names `validPin1/ 2/ 3`, each takes one argument `pinCode` which converted to an array of strings using `split()`. **Let's go and see what is in this three functions!.
+#### Three functions were created with the names `validPin1/ 2/ 3`, each takes one argument `pinCode` which converted to an array of strings using `split()`. **Let's go and see what is in this three functions!**.
 
 <br>
 
