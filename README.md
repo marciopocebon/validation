@@ -1,10 +1,10 @@
 # Create a function that fulfills the following requirements:
 ### The pin code should:
-* Be consist of **only numbers**.
+* be consist of **only numbers**.
 * be **4 digits** long.
-* Have at least **two** different digits.
-* Have the last digit **even**.
-* Add up to at least **5**.
+* have at least **two** different digits.
+* have the last digit **even**.
+* add up to at least **5**.
 <br>
 
 ## This code challanges were made in three different ways, accompanied by a general explanation of the codes.
