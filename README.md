@@ -75,16 +75,19 @@ Finally, return `result`, where all of our boolean values are stored.
 
 <br>
 
-### You can check out the codes by navigating between this three branches of my repository: 
-![](https://github.com/ZakariaHn/validation/blob/validation/validation.js) 
-![](https://github.com/ZakariaHn/validation/blob/validation1/validation1.js) 
-![](https://github.com/ZakariaHn/validation/blob/validation2/validation2.js)
+### You can check out the codes by navigating between this three branches of my repository:
+
+[](https://github.com/ZakariaHn/validation/blob/validation/validation.js) 
+[](https://github.com/ZakariaHn/validation/blob/validation1/validation1.js) 
+[](https://github.com/ZakariaHn/validation/blob/validation2/validation2.js)
 
 ###### Change the `function` name in the `function-calls` in order to check the results for the other solutions.
+
 ![](https://github.com/ZakariaHn/validation/blob/master/Images/consolLogValidPin.png)
 ![](https://github.com/ZakariaHn/validation/blob/master/Images/resultValidPin.png)
 
 <br>
+
 #### To know more about the used functions, methods, elements...ect, go to the end of the page and follow the attached links.
 # Resources:
 ![`filter()`](https://developer.mozilla.org/de/docs/Web/JavaScript/Reference/Global_Objects/Array/filter) 
