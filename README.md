@@ -3,7 +3,7 @@
 * Be consist of **only numbers**.
 * be **4 digits** long.
 * Have at least **two** different digits.
-* The last digit **even**.
+* Have the last digit **even**.
 * Add up to at least **5**.
 <br>
 
@@ -16,11 +16,17 @@
 ### 1st solution:
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation/va1.png)
 ### Explanation of the 1st part:
+After creating the function and getting an array out of the input, I'm appling `map()` on the array and convering each index from a string to a number using `parseInt()` and store the value in `num`.  
+adding up the numbers in `num` using `reduce()` and storing the value in `sum`. 
+If we want to see if tow digits are diffrent, we can compare the first index of the array with the other digits individualy using `filter()` array-method. The length of the filterd array should be equal to the length of the original one.
 
 <br>
 
 ![code](https://github.com/ZakariaHn/validation/blob/master/Images/validation/val2.png)
 ### Explanation of the 2nd part:
+Decalring a variable `result` and assign the value of my comparison process into it.
+our comparison with the `logical-operator or ||` will return `false` if for each truthy condition (which should be false in relation to the **requirements**) and vice versa.
+when result is returned we'll get the bolian values vor our conditions.
 
 <br>
 
